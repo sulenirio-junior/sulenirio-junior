@@ -24,9 +24,7 @@
  
   ![Snake animation](https://github.com/sulenirio-junior/sulenirio-junior/blob/output/github-contribution-grid-snake.svg)
 
-                - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
-            
+                
 
  
 
